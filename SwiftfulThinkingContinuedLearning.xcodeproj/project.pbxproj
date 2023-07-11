@@ -50,6 +50,7 @@
 		029FB28D262B9FD30062D169 /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029FB28C262B9FD30062D169 /* TimerBootcamp.swift */; };
 		029FB290262BB2AE0062D169 /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029FB28F262BB2AE0062D169 /* SubscriberBootcamp.swift */; };
 		02B2838A26326E2500FF11BC /* FileManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B2838926326E2500FF11BC /* FileManagerBootcamp.swift */; };
+		B970D40E2A5D54820014A791 /* MultipleSheetsB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970D40D2A5D54820014A791 /* MultipleSheetsB.swift */; };
 		B97728662A5D398500E2F0E8 /* MultipleSheetsBootcampb.swift in Sources */ = {isa = PBXBuildFile; fileRef = B97728652A5D398500E2F0E8 /* MultipleSheetsBootcampb.swift */; };
 /* End PBXBuildFile section */
 
@@ -99,6 +100,7 @@
 		029FB28C262B9FD30062D169 /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		029FB28F262BB2AE0062D169 /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
 		02B2838926326E2500FF11BC /* FileManagerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerBootcamp.swift; sourceTree = "<group>"; };
+		B970D40D2A5D54820014A791 /* MultipleSheetsB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsB.swift; sourceTree = "<group>"; };
 		B97728652A5D398500E2F0E8 /* MultipleSheetsBootcampb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcampb.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -241,6 +243,7 @@
 			isa = PBXGroup;
 			children = (
 				B97728652A5D398500E2F0E8 /* MultipleSheetsBootcampb.swift */,
+				B970D40D2A5D54820014A791 /* MultipleSheetsB.swift */,
 			);
 			path = self;
 			sourceTree = "<group>";
@@ -323,6 +326,7 @@
 				0279E6DC263A619500094483 /* PhotoModelFileManager.swift in Sources */,
 				0279E6982637D4C700094483 /* CacheBootcamp.swift in Sources */,
 				0279E6CD263A568700094483 /* DownloadingImagesRow.swift in Sources */,
+				B970D40E2A5D54820014A791 /* MultipleSheetsB.swift in Sources */,
 				02630215261422B000E216EB /* SoundsBootcamp.swift in Sources */,
 				0279E6C9263A513200094483 /* PhotoModelDataService.swift in Sources */,
 				023DAC9126213D9A00AEE98D /* BackgroundThreadBootcamp.swift in Sources */,
