@@ -19,8 +19,6 @@ struct MultipleSheetsBootcampb: View {
         
         
         
-        
-        
     }
 }
 
