@@ -51,7 +51,13 @@
 		029FB290262BB2AE0062D169 /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029FB28F262BB2AE0062D169 /* SubscriberBootcamp.swift */; };
 		02B2838A26326E2500FF11BC /* FileManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B2838926326E2500FF11BC /* FileManagerBootcamp.swift */; };
 		B970D40E2A5D54820014A791 /* MultipleSheetsB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970D40D2A5D54820014A791 /* MultipleSheetsB.swift */; };
+		B970D4102A5E4C7D0014A791 /* MaskB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970D40F2A5E4C7D0014A791 /* MaskB.swift */; };
+		B970D4122A5E9E0B0014A791 /* LocalNotificationB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970D4112A5E9E0B0014A791 /* LocalNotificationB.swift */; };
 		B97728662A5D398500E2F0E8 /* MultipleSheetsBootcampb.swift in Sources */ = {isa = PBXBuildFile; fileRef = B97728652A5D398500E2F0E8 /* MultipleSheetsBootcampb.swift */; };
+		B9D65F442A781B9400FBB701 /* StructClassActorB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D65F432A781B9400FBB701 /* StructClassActorB.swift */; };
+		B9D65F462A7B5A0000FBB701 /* HashableB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D65F452A7B5A0000FBB701 /* HashableB.swift */; };
+		B9D65F482A7E3BA700FBB701 /* ArraysB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D65F472A7E3BA700FBB701 /* ArraysB.swift */; };
+		B9D65F6A2A80DEAE00FBB701 /* CoreDataB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D65F692A80DEAE00FBB701 /* CoreDataB.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -101,7 +107,13 @@
 		029FB28F262BB2AE0062D169 /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
 		02B2838926326E2500FF11BC /* FileManagerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerBootcamp.swift; sourceTree = "<group>"; };
 		B970D40D2A5D54820014A791 /* MultipleSheetsB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsB.swift; sourceTree = "<group>"; };
+		B970D40F2A5E4C7D0014A791 /* MaskB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskB.swift; sourceTree = "<group>"; };
+		B970D4112A5E9E0B0014A791 /* LocalNotificationB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationB.swift; sourceTree = "<group>"; };
 		B97728652A5D398500E2F0E8 /* MultipleSheetsBootcampb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcampb.swift; sourceTree = "<group>"; };
+		B9D65F432A781B9400FBB701 /* StructClassActorB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorB.swift; sourceTree = "<group>"; };
+		B9D65F452A7B5A0000FBB701 /* HashableB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableB.swift; sourceTree = "<group>"; };
+		B9D65F472A7E3BA700FBB701 /* ArraysB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysB.swift; sourceTree = "<group>"; };
+		B9D65F692A80DEAE00FBB701 /* CoreDataB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataB.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -244,6 +256,12 @@
 			children = (
 				B97728652A5D398500E2F0E8 /* MultipleSheetsBootcampb.swift */,
 				B970D40D2A5D54820014A791 /* MultipleSheetsB.swift */,
+				B970D40F2A5E4C7D0014A791 /* MaskB.swift */,
+				B970D4112A5E9E0B0014A791 /* LocalNotificationB.swift */,
+				B9D65F432A781B9400FBB701 /* StructClassActorB.swift */,
+				B9D65F452A7B5A0000FBB701 /* HashableB.swift */,
+				B9D65F472A7E3BA700FBB701 /* ArraysB.swift */,
+				B9D65F692A80DEAE00FBB701 /* CoreDataB.swift */,
 			);
 			path = self;
 			sourceTree = "<group>";
@@ -324,13 +342,16 @@
 				023DACA426225BFC00AEE98D /* DownloadWithCombine.swift in Sources */,
 				023DABEF2617FFC900AEE98D /* HashableBootcamp.swift in Sources */,
 				0279E6DC263A619500094483 /* PhotoModelFileManager.swift in Sources */,
+				B9D65F6A2A80DEAE00FBB701 /* CoreDataB.swift in Sources */,
 				0279E6982637D4C700094483 /* CacheBootcamp.swift in Sources */,
 				0279E6CD263A568700094483 /* DownloadingImagesRow.swift in Sources */,
 				B970D40E2A5D54820014A791 /* MultipleSheetsB.swift in Sources */,
 				02630215261422B000E216EB /* SoundsBootcamp.swift in Sources */,
 				0279E6C9263A513200094483 /* PhotoModelDataService.swift in Sources */,
+				B9D65F482A7E3BA700FBB701 /* ArraysB.swift in Sources */,
 				023DAC9126213D9A00AEE98D /* BackgroundThreadBootcamp.swift in Sources */,
 				02B2838A26326E2500FF11BC /* FileManagerBootcamp.swift in Sources */,
+				B9D65F442A781B9400FBB701 /* StructClassActorB.swift in Sources */,
 				026301862607C23500E216EB /* DragGestureBootcamp2.swift in Sources */,
 				023DAC23261C295300AEE98D /* CoreDataBootcamp.swift in Sources */,
 				0263020A2610284F00E216EB /* MaskBootcamp.swift in Sources */,
@@ -350,13 +371,16 @@
 				0263017D2607B21E00E216EB /* MagnificationGestureBootcamp.swift in Sources */,
 				0279E6D3263A57FA00094483 /* ImageLoadingViewModel.swift in Sources */,
 				0263018C2607DAFE00E216EB /* GeometryReaderBootcamp.swift in Sources */,
+				B970D4122A5E9E0B0014A791 /* LocalNotificationB.swift in Sources */,
 				0263021E2614359400E216EB /* HapticsBootcamp.swift in Sources */,
 				0279E6BF263A4E3700094483 /* DownloadingImagesBootcamp.swift in Sources */,
+				B9D65F462A7B5A0000FBB701 /* HashableB.swift in Sources */,
 				0279E6C6263A503200094483 /* DownloadingImagesViewModel.swift in Sources */,
 				029FB28D262B9FD30062D169 /* TimerBootcamp.swift in Sources */,
 				023DAC81261EACBB00AEE98D /* CoreDataRelationshipsBootcamp.swift in Sources */,
 				0279E6C3263A4FA600094483 /* PhotoModel.swift in Sources */,
 				0279E6D0263A571C00094483 /* DownloadingImageView.swift in Sources */,
+				B970D4102A5E4C7D0014A791 /* MaskB.swift in Sources */,
 				0263017A2607AB2A00E216EB /* LongPressGestureBootcamp.swift in Sources */,
 				026301802607B9D500E216EB /* RotationGestureBootcamp.swift in Sources */,
 				B97728662A5D398500E2F0E8 /* MultipleSheetsBootcampb.swift in Sources */,
@@ -492,7 +516,7 @@
 				DEVELOPMENT_TEAM = Z735PM5XVD;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = SwiftfulThinkingContinuedLearning/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -514,7 +538,7 @@
 				DEVELOPMENT_TEAM = Z735PM5XVD;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = SwiftfulThinkingContinuedLearning/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
