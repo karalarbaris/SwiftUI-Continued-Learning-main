@@ -106,7 +106,7 @@ struct CoreDataB: View {
                     ForEach(vm.savedEntities) { entity in
                         Text(entity.name ?? "No name")
                             .onTapGesture {
-                                updateFruit(entity: entity)
+//                                updateFruit(entity: entity)
                             }
                     }
                     .onDelete { indexSet in

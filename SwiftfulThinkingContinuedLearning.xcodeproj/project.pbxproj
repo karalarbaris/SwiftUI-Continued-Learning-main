@@ -50,6 +50,7 @@
 		029FB28D262B9FD30062D169 /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029FB28C262B9FD30062D169 /* TimerBootcamp.swift */; };
 		029FB290262BB2AE0062D169 /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029FB28F262BB2AE0062D169 /* SubscriberBootcamp.swift */; };
 		02B2838A26326E2500FF11BC /* FileManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B2838926326E2500FF11BC /* FileManagerBootcamp.swift */; };
+		B934BD092A85EB5800E0C817 /* BackgroundThreadB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B934BD082A85EB5800E0C817 /* BackgroundThreadB.swift */; };
 		B970D40E2A5D54820014A791 /* MultipleSheetsB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970D40D2A5D54820014A791 /* MultipleSheetsB.swift */; };
 		B970D4102A5E4C7D0014A791 /* MaskB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970D40F2A5E4C7D0014A791 /* MaskB.swift */; };
 		B970D4122A5E9E0B0014A791 /* LocalNotificationB.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970D4112A5E9E0B0014A791 /* LocalNotificationB.swift */; };
@@ -106,6 +107,7 @@
 		029FB28C262B9FD30062D169 /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		029FB28F262BB2AE0062D169 /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
 		02B2838926326E2500FF11BC /* FileManagerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerBootcamp.swift; sourceTree = "<group>"; };
+		B934BD082A85EB5800E0C817 /* BackgroundThreadB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadB.swift; sourceTree = "<group>"; };
 		B970D40D2A5D54820014A791 /* MultipleSheetsB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsB.swift; sourceTree = "<group>"; };
 		B970D40F2A5E4C7D0014A791 /* MaskB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskB.swift; sourceTree = "<group>"; };
 		B970D4112A5E9E0B0014A791 /* LocalNotificationB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationB.swift; sourceTree = "<group>"; };
@@ -262,6 +264,7 @@
 				B9D65F452A7B5A0000FBB701 /* HashableB.swift */,
 				B9D65F472A7E3BA700FBB701 /* ArraysB.swift */,
 				B9D65F692A80DEAE00FBB701 /* CoreDataB.swift */,
+				B934BD082A85EB5800E0C817 /* BackgroundThreadB.swift */,
 			);
 			path = self;
 			sourceTree = "<group>";
@@ -365,6 +368,7 @@
 				023DAC97262155F900AEE98D /* TypealiasBootcamp.swift in Sources */,
 				0263020726101E4C00E216EB /* MultipleSheetsBootcamp.swift in Sources */,
 				023DACA12622400300AEE98D /* DownloadWithEscapingBootcamp.swift in Sources */,
+				B934BD092A85EB5800E0C817 /* BackgroundThreadB.swift in Sources */,
 				023DAC9D2622263400AEE98D /* CodableBootcamp.swift in Sources */,
 				023DAC942621478E00AEE98D /* WeakSelfBootcamp.swift in Sources */,
 				026301692607AAA200E216EB /* SwiftfulThinkingContinuedLearningApp.swift in Sources */,
